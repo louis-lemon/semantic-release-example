@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/louis-lemon/semantic-release-example/compare/v1.3.0...v1.3.1) (2024-04-17)
+
+
+### ✨ Features
+
+* update commit-analyzer ([2cf662d](https://github.com/louis-lemon/semantic-release-example/commit/2cf662d5d3c60b0678a0be95f76903eabc8266cb))
+
 ## [1.3.0](https://github.com/louis-lemon/semantic-release-example/compare/v1.2.0...v1.3.0) (2024-04-17)
 
 
