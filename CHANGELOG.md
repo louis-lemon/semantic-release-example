@@ -1,3 +1,15 @@
+## [1.3.0](https://github.com/louis-lemon/semantic-release-example/compare/v1.2.0...v1.3.0) (2024-04-17)
+
+
+### ✨ Features
+
+* update release-notes-generator ([5d58bd2](https://github.com/louis-lemon/semantic-release-example/commit/5d58bd274f673f89e6ff9653ade85bdcdf1303f6))
+
+
+### 📝 Docs
+
+* add README ([376fc75](https://github.com/louis-lemon/semantic-release-example/commit/376fc7520f90ca40e5874a84c12b17bf5db1e9f6))
+
 # [1.2.0](https://github.com/louis-lemon/semantic-release-example/compare/v1.1.0...v1.2.0) (2024-04-17)
 
 
